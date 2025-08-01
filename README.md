@@ -1,4 +1,4 @@
-# RacketLog
+# RacketLogp
 
 ## Deskripsi Singkat
 RacketLog adalah aplikasi mobile berbasis Flutter yang dirancang untuk para penggemar dan pemain badminton. Fungsi utamanya adalah untuk mencatat skor pertandingan secara *real-time* dan menjadwalkan pertandingan yang akan datang. Setiap pengguna memiliki akun pribadi untuk menyimpan riwayat dan jadwal pertandingan mereka dengan aman di cloud.
